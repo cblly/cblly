@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cabally
+- 👋 Hi, I’m @cabally or @cblly
 - 👀 I’m interested in reading, muay thai, hiking, star gazing, caligraphy and gardening. 
 - 🌱 I’m currently learning anything and everything
 - 💞️ I’m looking to collaborate on anything that is open source
