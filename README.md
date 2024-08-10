@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cabally
-- 👀 I’m interested in books,cooking and drawing.
-- 🌱 I’m currently learning python and data science
+- 👀 I’m interested in reading, muay thai, hiking, star gazing, caligraphy and gardening. 
+- 🌱 I’m currently learning anything and everything
 - 💞️ I’m looking to collaborate on anything that is open source
-- 📫 How to reach me...
+- 📫 How to reach me: drop me a message I'll respond I promise
 
 <!---
 cabally/cabally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
